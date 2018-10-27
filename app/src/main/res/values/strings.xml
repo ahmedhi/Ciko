@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart Door</string>
+    <string name="Locked">Locked</string>
+    <string name="UnLocked">UnLocked</string>
+    <string name="string">string</string>
+    <string name="E.Door">Etat de la porte :</string>
+    <string name="button">Changement</string>
+    <string name="Text">Smart Door Home</string>
+    <string name="E.Capteur">Press to open</string>
+    <string name="close">Closed and Unlocked</string>
+    <string name="todo">TODO</string>
+</resources>
